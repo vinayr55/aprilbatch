@@ -4,3 +4,5 @@ hello
 changes from git hub
 feature1
 feature2
+
+mergeconflict demo
